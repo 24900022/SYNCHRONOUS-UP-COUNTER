@@ -144,12 +144,12 @@ endmodule
 
 **RTL LOGIC UP COUNTER**
 
-![Screenshot 2024-12-17 193121](https://github.com/user-attachments/assets/2cc23554-8fa6-4a2c-928c-fdfc6d690353)
-
+![Screenshot 2024-12-31 142730](https://github.com/user-attachments/assets/b7d4c7f2-8977-4a0e-b237-d754f865cfc5)
 
 **TIMING DIAGRAM FOR IP COUNTER**
 
-![Screenshot 2024-12-17 193054](https://github.com/user-attachments/assets/d0de8a87-cbc8-45a5-ad2d-358b77f6e74f)
+![Screenshot 2024-12-31 142712](https://github.com/user-attachments/assets/df02c4d0-505c-49c2-8df2-b0ebfa407f49)
+
 
 
 **TRUTH TABLE**
